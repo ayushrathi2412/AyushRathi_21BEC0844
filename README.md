@@ -51,7 +51,8 @@ A turn-based chess-like game played on a 5x5 grid where two players control team
    -The game notifies you when a player wins.
 ```
 
-
+![Screenshot 2024-08-27 182142](https://github.com/user-attachments/assets/ce248c8c-f1ce-4bc9-868f-352b8cd4dac5)
+## Player B wins
 
 ```markdown
 ## Dependencies
