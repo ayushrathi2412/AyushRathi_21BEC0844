@@ -3,6 +3,8 @@
 
 A turn-based chess-like game played on a 5x5 grid where two players control teams of pieces with unique movement rules. The game supports real-time play using WebSockets for communication between clients and server.
 
+![Screenshot 2024-08-27 181337](https://github.com/user-attachments/assets/7034970a-fae0-4601-9538-d536ccfafae0)
+
 ```markdown
 ## Project Structure
 
